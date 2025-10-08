@@ -54,18 +54,27 @@ I work on both backend and frontend with a focus on modern technologies, best pr
 
 ---
 
-## 🚀 Tech Stack Overview
+## 🚀 Meine wichtigsten Projekte
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+- ☕ [WillBeeDone – Service Marketplace](https://github.com/orgs/WillBeeDone/repositories)  
+  [🌐 Live Demo](https://willbeedone.up.railway.app/)  
+  Service-Marktplatz zur Suche von Auftragnehmern auf lokalen Märkten.  
+  **Backend:** REST-Service mit Spring Boot, PostgreSQL, Security (JWT, OAuth2), Docker, Swagger  
+  **Frontend:** TypeScript, React, Redux Toolkit
+
+- 🧼 [Handmade Soap Shop](https://github.com/Seifenarts)  
+  E-Commerce-Plattform mit React, Next.js, Redux Toolkit, Tailwind CSS und Spring Boot (PostgreSQL).  
+  Fokus auf UI-Entwicklung, API-Integration und State-Management.
+
+- 💻 [DOiT Startup](https://github.com/LutsDM/DOiT)   
+  Reales Unternehmensprojekt – eine internationale Bildungsplattform.  
+  **Technologien:** Golang, React, Next.js 14, Redux Toolkit, MUI, API-Integration, responsives Design.
+
+  
+
+
+
+
 
 ---
 
