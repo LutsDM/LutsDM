@@ -69,13 +69,6 @@ I work on both backend and frontend with a focus on modern technologies, best pr
 
 ---
 
-## 📈 GitHub Stats
-
-![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LutsDM&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LutsDM&layout=compact&theme=github_dark)
-
----
-
 ## 💬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmytro%20Luts-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
