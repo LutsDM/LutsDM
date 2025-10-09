@@ -66,7 +66,8 @@ I work on both backend and frontend with a focus on modern technologies, best pr
   E-Commerce-Plattform mit React, Next.js, Redux Toolkit, Tailwind CSS und Spring Boot (PostgreSQL).  
   Fokus auf UI-Entwicklung, API-Integration und State-Management.
 
-- 💻 [DOiT Startup](https://github.com/LutsDM/DOiT)   
+- 💻 [DOiT Startup](https://github.com/LutsDM/DOiT)
+- [🌐 Live Demo](d-oi-t.vercel.app)  
   Reales Unternehmensprojekt – eine internationale Bildungsplattform.  
   **Technologien:** Golang, React, Next.js 14, Redux Toolkit, MUI, API-Integration, responsives Design.
 
