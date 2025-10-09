@@ -67,7 +67,7 @@ I work on both backend and frontend with a focus on modern technologies, best pr
   Fokus auf UI-Entwicklung, API-Integration und State-Management.
 
 - 💻 [DOiT Startup](https://github.com/LutsDM/DOiT)
-  [🌐 Live Demo](https://d-oi-t.vercel.app/))  
+  [🌐 Live Demo](https://d-oi-t.vercel.app/)  
   Reales Unternehmensprojekt – eine internationale Bildungsplattform.  
   **Technologien:** Golang, React, Next.js 14, Redux Toolkit, MUI, API-Integration, responsives Design.
 
