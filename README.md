@@ -72,16 +72,16 @@ I work on both backend and frontend with a focus on modern technologies, best pr
   **Technologien:** Golang, React, Next.js 14, Redux Toolkit, MUI, API-Integration, responsives Design.
 
 - 🧾 EDV Service Samirae – Service Report Tool  
-    [🌐 Live Demo].  (https://edv-time-calculator.vercel.app/)
+    [🌐 Live Demo].  (https://edv-time-calculator.vercel.app/)  
   Praxisorientiertes Tool zur Digitalisierung von Auftragsformularen und Serviceberichten.  
   Automatisiert Kundenerfassung, Arbeitszeitberechnung, Zusatzpositionen, digitale Signaturen und PDF-Erstellung.  
   **Technologien:** TypeScript, Next.js, React, Tailwind CSS, @react-pdf/renderer
 
 - 🏢 Reinigungsprotokoll für Hausverwaltungen  
-  [🌐 Live Demo]. (https://reinigungsprotokoll.up.railway.app/)
+  [🌐 Live Demo]. (https://reinigungsprotokoll.up.railway.app/)  
   Web-Anwendung zur Erfassung und Kontrolle von Reinigungsdiensten in Wohnanlagen.  
   Mit QR-Code Anmeldung, Standortprüfung per Geolocation, Zeitprotokollen und zentraler Dokumentation der Reinigungsarbeiten.  
-  Technologien: TypeScript, Next.js, React, Tailwind CSS
+  **Technologien:** TypeScript, Next.js, React, Tailwind CSS
 
 
 
