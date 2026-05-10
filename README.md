@@ -71,11 +71,11 @@ I work on both backend and frontend with a focus on modern technologies, best pr
   Reales Unternehmensprojekt – eine internationale Bildungsplattform.  
   **Technologien:** Golang, React, Next.js 14, Redux Toolkit, MUI, API-Integration, responsives Design.
 
--🧾 EDV Service Samirae – Service Report Tool  
-🌐 Live Demo  (https://edv-time-calculator.vercel.app/)
-Praxisorientiertes Tool zur Digitalisierung von Auftragsformularen und Serviceberichten.  
-Automatisiert Kundenerfassung, Arbeitszeitberechnung, Zusatzpositionen, digitale Signaturen und PDF-Erstellung.  
-Technologien: TypeScript, Next.js, React, Tailwind CSS, @react-pdf/renderer
+- 🧾 EDV Service Samirae – Service Report Tool  
+    [🌐 Live Demo].  (https://edv-time-calculator.vercel.app/)
+  Praxisorientiertes Tool zur Digitalisierung von Auftragsformularen und Serviceberichten.  
+  Automatisiert Kundenerfassung, Arbeitszeitberechnung, Zusatzpositionen, digitale Signaturen und PDF-Erstellung.  
+  **Technologien:** TypeScript, Next.js, React, Tailwind CSS, @react-pdf/renderer
 
   
 
